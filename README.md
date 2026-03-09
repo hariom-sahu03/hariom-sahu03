@@ -16,6 +16,7 @@
 
 ## 👨‍💻 About Me
 
+- 🎓 BTech (Hons.) CSE (Data Science)
 - 💻 Passionate about **Python, ML & Deep Learning**
 - 🧠 Strong foundation in **DSA, OS, DBMS & Theory of Computation**
 - 🤖 Exploring **Artificial Intelligence & Neural Networks**
