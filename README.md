@@ -17,7 +17,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Pursuing **BTech (Hons.) CSE**
-- 💻 Passionate about ** Machine learning  & Deep Learning**
+- 💻 Passionate about **Machine learning  & Deep Learning**
 - 🧠 Strong foundation in **DSA, OS, DBMS & Theory of Computation**
 - 🤖 Exploring **Artificial Intelligence & Neural Networks**
 - 🌱 Currently sharpening **ML/DL skills**
