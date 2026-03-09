@@ -16,12 +16,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 BTech (Hons.) CSE (Data Science)
-- 💻 Passionate about **Python, ML & Deep Learning**
+- 🎓 Pursuing **BTech (Hons.) CSE**
+- 💻 Passionate about ** Machine learning  & Deep Learning**
 - 🧠 Strong foundation in **DSA, OS, DBMS & Theory of Computation**
 - 🤖 Exploring **Artificial Intelligence & Neural Networks**
 - 🌱 Currently sharpening **ML/DL skills**
-- ⚡ Fun fact: I debug code and my life with the same energy 😄
+
 
 ---
 
